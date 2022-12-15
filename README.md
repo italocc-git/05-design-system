@@ -9,3 +9,5 @@
 - [ ] Checkbox
 - [ ] Avatar
 - [ ] MultiStep
+- [ ] Tooltip (extra)
+- [ ] Toast (extra)
