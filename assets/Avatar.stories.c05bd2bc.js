@@ -1,0 +1,2 @@
+import{A as t}from"./index.48a8feae.js";import"./index.d6454ffc.js";import"./iframe.9cb1fc6c.js";import"./index.5a0c10dc.js";import"./jsx-runtime.9c040236.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/italocc-git.png",alt:"Italo Costa Cavalcante"},argTypes:{src:{control:{type:"text"}}}},p={},l={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,l as WithFallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.c05bd2bc.js.map
