@@ -2,14 +2,14 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/italocc-git/05-design-system/blob/main/LICENSE) 
 
-# Sobre o projeto
+# About the project
 
 https://italocc-git.github.io/05-design-system/?path=/story/home--page
 
-Projeto Design Systems criado no módulo 5 do curso Ignite Front-end 2022. Consiste em um Design system com componentes do radix.ui onde o usuário
-pode customizar para aplicar no seu sistema. Além dos componentes desenvolvidos , adicionei mais 2 componentes do radix : Tooltip e Toast.
+Design Systems project created in module 5 of the Ignite Front-end 2022 course. It consists of a Design system with radix.ui components where the user
+can customize to apply to your system. In addition to the developed components, I added 2 more radix components: Tooltip and Toast.
 
-# Componentes
+# Components
 
 - [X] Text
 - [X] Heading
@@ -23,7 +23,7 @@ pode customizar para aplicar no seu sistema. Além dos componentes desenvolvidos
 - [X] Tooltip (extra)
 - [X] Toast (extra)
 
-# Tecnologias utilizadas
+# Technologies
 
 ## Front end : 
  <li> HTML / CSS / Typescript / React
@@ -32,30 +32,30 @@ pode customizar para aplicar no seu sistema. Além dos componentes desenvolvidos
  <li> @stitches/react </li>
  <li> Radix.ui </li>
 
-## Documentação : 
+## Documentation : 
  <li> Story Book </li>
  <li> Polished </li>
  <li> Babel loader </li>
 
- # Como executar o projeto
+ # How to run the project
  
- Pré-requisitos: npm / yarn
+ Prerequisites: npm / yarn
 
 ```bash
-# clonar repositório
+# clone the repository
 git clone https://github.com/italocc-git/05-design-system.git
 
-# entrar na pasta do projeto Design System
+# enter the Design System project folder 
 cd 05-design-system
 
-# instalar dependências
+# install dependencies
 yarn install / npm install
 
-# executar o projeto
+# run the project
 yarn dev / npm run dev
 ```
 
-# Autor
+# Author
 
 Italo Costa Cavalcante
 
